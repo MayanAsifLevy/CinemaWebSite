@@ -6,7 +6,8 @@ https://youtu.be/_LbYECm9BfA
 
 
 # Architecture:
-![image](https://user-images.githubusercontent.com/58429034/199915429-d04beade-4832-4500-aefb-a51465f33b92.png)
+![Client_DR_flow](https://user-images.githubusercontent.com/58429034/203002486-9769eeb6-1ebc-48cc-9231-f7bf70f9a978.jpg)
+
 
 # Server architecture:
-![image](https://user-images.githubusercontent.com/58429034/199915551-e6d09509-a74e-4139-94e6-6f7754e860e3.png)
+![Server_DR_flow](https://user-images.githubusercontent.com/58429034/202999828-4a6f9cd9-e215-407a-b4cc-6bbc18b10cc8.jpg)
