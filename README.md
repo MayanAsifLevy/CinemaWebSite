@@ -2,7 +2,8 @@
 Web application for Movies & Subscription management
 
 view Demo:
-https://youtu.be/_LbYECm9BfA
+https://user-images.githubusercontent.com/58429034/203002898-e94760d0-2f4c-438b-8580-95adb7f3cb9e.mp4
+
 
 
 # Architecture:
